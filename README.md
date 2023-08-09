@@ -1,3 +1,5 @@
+![Bike Sharing](bike_sharing.jpg alt="Bike Sharing")
+
 # London Bike Sharing Analysis
 
 This project is an exploratory data analysis of the London Bike Sharing dataset. The goal of this project is to understand the trends and patterns in bike sharing in London, and to identify factors that may affect bike rental demand.
@@ -26,3 +28,6 @@ Through this analysis, I was able to gain insights into how these factors may in
 ## Conclusion
 
 In conclusion, this project provided a comprehensive analysis of the London Bike Sharing dataset. Through the Exploratory Data Analysis, I was able to identify trends and patterns in bike sharing in London and gain insights into factors that may affect bike rental demand. I've identified that People in London tend to use the bike sharing system more during the summer months, with the highest usage in July and August. The lowest usage is in December and January. This is likely due to the cold weather in the winter months. Moreover the bike sharing system is used more during the weekdays than the weekends. This is likely due to the fact that people use the bike sharing system to commute to work or school. The bike sharing system is used more during the morning and evening rush hours, which is also likely due to the fact that people use the bike sharing system to commute to work or school. Also the people in London rent the bike in Clear , Cloudy and Misty weather.
+
+
+[def]: bike_sharing.jpg
