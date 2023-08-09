@@ -1,4 +1,4 @@
-![Bike Sharing](bike_sharing.jpg alt="Bike Sharing")
+<img src="bike_sharing.jpg" width="1200" height="500" alt = "Bike Sharing">
 
 # London Bike Sharing Analysis
 
